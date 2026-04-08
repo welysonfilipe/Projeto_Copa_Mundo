@@ -94,17 +94,17 @@ Os 3 CSVs tratados foram importados no Looker Studio para criação de uma dashb
 ### Página 1 — Geral
 Visão macro da história da Copa do Mundo com KPIs gerais, evolução do número de seleções por edição, média de gols ao longo das copas, países sede e sedes que também foram campeãs.
 
-![Dashboard Geral](prints/dashboard_geral.png)
+![Dashboard Geral](Projeto_Copa_Mundo/prints/Pagina_1.png)
 
 ### Página 2 — Países Campeões
 Ranking de títulos por país, vice-campeonatos e pódio histórico completo de cada edição.
 
-![Dashboard Países Campeões](prints/dashboard_paises.png)
+![Dashboard Países Campeões](Projeto_Copa_Mundo/prints/Pagina_2.png)
 
 ### Página 3 — Artilheiros
 Maior artilheiro da história (Miroslav Klose — 16 gols), países com mais artilheiros e top 10 gols marcados em uma única edição.
 
-![Dashboard Artilheiros](prints/dashboard_artilheiros.png)
+![Dashboard Artilheiros](Projeto_Copa_Mundo/prints/Pagina_3.png)
 
 ---
 
